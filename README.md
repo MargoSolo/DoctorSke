@@ -1,2 +1,0 @@
-# DoctorSke
-personal website
