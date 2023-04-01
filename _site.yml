@@ -1,7 +1,7 @@
-name: "DoctorShke"
-title: "My Website"
+name: "site"
+title: "My Blog"
 description: |
-  My Website
+  My Blog
 output_dir: "_site"
 navbar:
   right:
