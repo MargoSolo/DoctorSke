@@ -1,5 +1,5 @@
 ---
-title: "About this my blog"
+title: "About this my shke blog"
 description: |
   Some additional details about the blog
 ---
